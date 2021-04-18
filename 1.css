@@ -90,6 +90,9 @@ h2{
     
 }
 .class1{
+  transition-property: all;
+  transition-duration: 2s;
+  transition-delay: 1s;
   padding: 0 2% 2% 2%;
   font-size: 20px;
     /* padding-top: 5px; */
@@ -103,6 +106,9 @@ h2{
     box-shadow: -20px 40px 18px 5px grey;
 }
 .class2 {
+  transition-property: all;
+  transition-duration: 2s;
+  transition-delay: 1s;
   font-size: 20px;
     color: #ecc57a;
     background-color: #60A5FA;
@@ -141,6 +147,9 @@ h2{
 }
 
 .class4 {
+  transition-property: all;
+  transition-duration: 2s;
+  transition-delay: 1s;
   font-size: 20px;
     color: #155E75;
     background-color: #F472B6;
